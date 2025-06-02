@@ -1,0 +1,61 @@
+asignatura,taxonomia,enunciado,respuesta,ponderacion
+Programacion,Conocimiento,Java es un lenguaje orientado a objetos.,V,1
+Programacion,Conocimiento,Python fue creado antes que Java.,F,1
+Programacion,Conocimiento,El operador == compara referencias en Java.,V,1
+Programacion,Conocimiento,Un arreglo en Java cambia de tamaño dinámicamente.,F,1
+Programacion,Comprensión,Un ArrayList en Java extiende la interfaz List.,V,2
+Programacion,Comprensión,Una subclase puede acceder directamente a miembros privados de la superclase.,F,2
+Programacion,Comprensión,El método finalize() se usa para manejar la recolección de basura.,V,2
+Programacion,Comprensión,"En Java, una interface puede contener métodos con implementación default desde Java 8.",V,2
+Programacion,Aplicación,"Para leer un archivo de texto, usamos FileReader y BufferedReader.",V,3
+Programacion,Aplicación,Para crear un hilo en Java basta con llamar a start() en una instancia de Runnable.,F,3
+Programacion,Aplicación,El uso de synchronized garantiza exclusión mutua.,V,3
+Programacion,Aplicación,Un Callable no se puede usar con ExecutorService.,F,3
+Programacion,Análisis,Comparar Strings con equals() vs == puede causar bugs sutiles.,V,4
+Programacion,Análisis,Un HashMap mantiene el orden de inserción.,F,4
+Programacion,Análisis,Autoboxing puede generar NullPointerException inesperados.,V,4
+Programacion,Análisis,El uso de generics asegura el type-checking en tiempo de ejecución sin warnings.,F,4
+Programacion,Síntesis,Es posible diseñar un patrón Singleton usando enum.,V,5
+Programacion,Síntesis,Es posible serializar cualquier objeto sin implementar Serializable.,F,5
+Programacion,Evaluación,Usar finalizers es una práctica recomendada para liberar recursos.,F,5
+Programacion,Evaluación,Aplicar patrones de diseño mejora la mantenibilidad del código.,V,5
+Geografia,Conocimiento,El río Amazonas es el más largo del mundo.,F,1
+Geografia,Conocimiento,África es el segundo continente más poblado.,V,1
+Geografia,Conocimiento,El Monte Everest es la montaña más alta sobre el nivel del mar.,V,1
+Geografia,Conocimiento,El Desierto del Sahara está en América del Norte.,F,1
+Geografia,Comprensión,La línea del Ecuador divide la Tierra en hemisferio norte y sur.,V,2
+Geografia,Comprensión,La península de Yucatán se encuentra en América del Sur.,F,2
+Geografia,Comprensión,Los polos geográficos coinciden con los polos magnéticos de la Tierra.,F,2
+Geografia,Comprensión,El Círculo Polar Ártico está al norte del Ecuador.,V,2
+Geografia,Aplicación,Para calcular la distancia entre dos coordenadas se usa la fórmula de Haversine.,V,3
+Geografia,Aplicación,Los paralelos convergen en los polos.,F,3
+Geografia,Aplicación,Una escala de 1:50000 representa un mapa de mayor detalle que 1:100000.,V,3
+Geografia,Aplicación,Un mapa topográfico representa la elevación del terreno mediante curvas de nivel.,V,3
+Geografia,Análisis,La latitud varía entre -90° y +90°.,V,4
+Geografia,Análisis,La longitud varía entre 0° y 360°.,F,4
+Geografia,Análisis,Los husos horarios están separados por 15° de longitud.,V,4
+Geografia,Análisis,La corriente del Golfo enfría el clima de Europa occidental.,F,4
+Geografia,Síntesis,Depender solo de la distancia euclidiana es suficiente para planear rutas logísticas óptimas.,F,5
+Geografia,Síntesis,Para diseñar un sistema de alertas de tsunamis se usan estaciones sismográficas y boyas marinas.,V,5
+Geografia,Evaluación,Cambiar el uso del suelo no afecta el clima local.,F,5
+Geografia,Evaluación,El deshielo de los polos podría elevar el nivel del mar globalmente.,V,5
+Conocimientos Generales,Conocimiento,El Sol es una estrella.,V,1
+Conocimientos Generales,Conocimiento,La Gran Muralla China es visible desde la luna.,F,1
+Conocimientos Generales,Conocimiento,El cuerpo humano tiene cuatro pulmones.,F,1
+Conocimientos Generales,Conocimiento,El agua hierve a 100°C al nivel del mar.,V,1
+Conocimientos Generales,Comprensión,Las vitaminas son nutrientes esenciales que el cuerpo no produce.,V,2
+Conocimientos Generales,Comprensión,La electricidad es el flujo de electrones en un material conductor.,V,2
+Conocimientos Generales,Comprensión,El ozono en la estratosfera protege de la radiación UV.,V,2
+Conocimientos Generales,Comprensión,El gluten es una proteína presente en el arroz.,F,2
+Conocimientos Generales,Aplicación,Para medir el pulso se utiliza un esfigmomanómetro.,F,3
+Conocimientos Generales,Aplicación,El pH de 7 indica neutralidad.,V,3
+Conocimientos Generales,Aplicación,Usar protector solar previene quemaduras solares.,V,3
+Conocimientos Generales,Aplicación,Un martillo es una herramienta para clavar clavos.,V,3
+Conocimientos Generales,Análisis,Pasear descalzo no aumenta la sensación de equilibrio.,F,4
+Conocimientos Generales,Análisis,Dormir menos de 7 horas puede afectar la concentración.,V,4
+Conocimientos Generales,Análisis,Beber agua en exceso es imposible.,F,4
+Conocimientos Generales,Análisis,Fumar tabaco aumenta el riesgo de cáncer de pulmón.,V,4
+Conocimientos Generales,Síntesis,Una dieta balanceada combina macronutrientes y micronutrientes.,V,5
+Conocimientos Generales,Síntesis,Crear una vacuna exitosa no requiere pruebas en humanos.,F,5
+Conocimientos Generales,Evaluación,La vitamina C cura el resfriado común.,F,5
+Conocimientos Generales,Evaluación,La cafeína puede mejorar temporalmente la alerta mental.,V,5
